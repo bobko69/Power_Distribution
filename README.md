@@ -12,7 +12,7 @@ The Power Distribution board has 8 removable Phoenix connectors that make wiring
 The LED next to each fuse indicates if the fuse is good.  An off LED means a fuse has been tripped.  Fuses can be rest by powering down the board.
 
 - Voltage: 5v to 24v
-- Input: 30A 10~22awg
+- Input: 35A 10~22awg
 - Output: 5A 16~28awg
 - Fuse: 5A hold, 8A trip
   
