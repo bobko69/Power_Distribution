@@ -5,7 +5,7 @@
 This is a power distributor used for LED power injection.  It can also be used when power needs to be split into 8 directions.
 
 ## Where can I get one?
-The Power Distribution board is available for purchase at [Wasatch Lights](https://wasatchlights.com/products).
+The Power Distribution board is available for purchase at [Wasatch Lights](https://wasatchlights.com/products/bong-69-power-distribution-board).
 
 ## Specifications
 The Power Distribution board has 8 removable Phoenix connectors that make wiring easy.  It also has 8 resettable fuse that never need to be replaced.
