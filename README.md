@@ -15,6 +15,7 @@ The LED next to each fuse indicates if the fuse is good.  An off LED means a fus
 - Input: 35A 10~22awg
 - Output: 5A 16~28awg
 - Fuse: 5A hold, 8A trip
+- Size: 70mm x 70mm
   
 The ideal installation would be to use a 30A power supply and to draw an average of 4A from each of the 8 output ports.
 
